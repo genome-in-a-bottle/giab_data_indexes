@@ -1,12 +1,6 @@
 # giab_data_indexes
 This repository contains data indexes from NIST's Genome in a Bottle project. The indexes for sequences and alignments are also under:  ftp://ftp-trace.ncbi.nlm.nih.gov/giab/ftp/data_indexes/ .
 
-<strong>NA12878</strong>
-
-<sub>[sequence.index.NA12878_PacBio_MtSinai_NIST_hdf5_08182015](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/sequence.index.NA12878_PacBio_MtSinai_NIST_hdf5_08182015)</sub><br />
-<sub>[alignment.index.NA12878_10XGenomics_bwamem_GRCh37_08142015](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/alignment.index.NA12878_10XGenomics_bwamem_GRCh37_08142015)</sub><br />
-
-
 <strong>AshkenazimTrio</strong>
 
 <sub>[sequence.index.AJtrio_HG002_NIST_SOLiD5500W_xsq_09042015](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/sequence.index.AJtrio_HG002_NIST_SOLiD5500W_xsq_09042015)</sub><br />
@@ -24,6 +18,13 @@ This repository contains data indexes from NIST's Genome in a Bottle project. Th
 <strong>ChineseTrio</strong>
 
 <sub>[sequence.index.ChineseTrio_HG005_NIST_SOLiD5500W_xsq_09042015](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/sequence.index.ChineseTrio_HG005_NIST_SOLiD5500W_xsq_09042015)</sub><br />
+
+
+<strong>NA12878</strong>
+
+<sub>[sequence.index.NA12878_PacBio_MtSinai_NIST_hdf5_08182015](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/sequence.index.NA12878_PacBio_MtSinai_NIST_hdf5_08182015)</sub><br />
+<sub>[alignment.index.NA12878_10XGenomics_bwamem_GRCh37_08142015](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/alignment.index.NA12878_10XGenomics_bwamem_GRCh37_08142015)</sub><br />
+
 
 
 <strong>Please Note:</strong><br />
