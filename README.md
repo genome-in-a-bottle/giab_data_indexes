@@ -8,13 +8,13 @@ This repository contains data indexes from NIST's Genome in a Bottle project. Th
 2. If you want to use pre-aligned data (bam etc) for your analysis, then you can use the alignment.index.* files when you need to download our data.
 
 
-*NA12878*
+<strong>NA12878</strong>
 
 <sub>sequence.index.NA12878_PacBio_MtSinai_NIST_hdf5_08182015</sub><br />
 <sub>alignment.index.NA12878_10XGenomics_bwamem_GRCh37_08142015</sub><br />
 
 
-*AshkenazimTrio*
+<strong>AshkenazimTrio</strong>
 
 <sub>sequence.index.AJtrio_HG002_NIST_SOLiD5500W_xsq_09042015</sub><br />
 <sub>sequence.index.AJtrio_Illumina300X_wgs_07292015</sub><br />
@@ -28,7 +28,7 @@ This repository contains data indexes from NIST's Genome in a Bottle project. Th
 <sub>alignment.index.AJtrio_IonTorrent_exome_TMAP_GRCh37_07292015</sub><br />
 
 
-*ChineseTrio*
+<strong>ChineseTrio</strong>
 
 <sub>sequence.index.ChineseTrio_HG005_NIST_SOLiD5500W_xsq_09042015</sub><br />
 
