@@ -32,5 +32,8 @@ This repository contains data indexes from NIST's Genome in a Bottle project. Th
 <sub>[sequence.index.ChineseTrio_HG005_NIST_SOLiD5500W_xsq_09042015](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/sequence.index.ChineseTrio_HG005_NIST_SOLiD5500W_xsq_09042015)</sub><br />
 
 
-
+<strong>Please Note:</strong><br />
+<sub>1. If you want to use raw sequencing data (fastq, fasta, hdf5, xsq etc) for your analysis, then you can use the sequence.index.* files when you need to download our data.</sub>
+<br />
+<sub>2. If you want to use pre-aligned data (bam etc) for your analysis, then you can use the alignment.index.* files when you need to download our data.</sub>
 
