@@ -8,28 +8,28 @@ This repository contains data indexes from NIST's Genome in a Bottle project. Th
 2. If you want to use pre-aligned data (bam etc) for your analysis, then you can use the alignment.index.* files when you need to download our data.
 
 
-<U>NA12878</U>
+<strong>NA12878</strong>
 
-<sub>sequence.index.NA12878_PacBio_MtSinai_NIST_hdf5_08182015</sub>
-<sub>alignment.index.NA12878_10XGenomics_bwamem_GRCh37_08142015</sub>
+<sub>sequence.index.NA12878_PacBio_MtSinai_NIST_hdf5_08182015</sub><br />
+<sub>alignment.index.NA12878_10XGenomics_bwamem_GRCh37_08142015</sub><br />
 
 
-<U>AshkenazimTrio</U>
+<strong>AshkenazimTrio</strong>
 
-<sub>sequence.index.AJtrio_HG002_NIST_SOLiD5500W_xsq_09042015</sub>
-<sub>sequence.index.AJtrio_Illumina300X_wgs_07292015</sub>
-<sub>sequence.index.AJtrio_Illumina_6kb_matepair_wgs_08032015</sub>
-<sub>sequence.index.AJtrio_NIST_Stanford_Moleculo_125bps_08042015</sub>
-<sub>sequence.index.AJtrio_PacBio_MtSinai_NIST_hdf5_08072015</sub>
+<sub>sequence.index.AJtrio_HG002_NIST_SOLiD5500W_xsq_09042015</sub><br />
+<sub>sequence.index.AJtrio_Illumina300X_wgs_07292015</sub><br />
+<sub>sequence.index.AJtrio_Illumina_6kb_matepair_wgs_08032015</sub><br />
+<sub>sequence.index.AJtrio_NIST_Stanford_Moleculo_125bps_08042015</sub><br />
+<sub>sequence.index.AJtrio_PacBio_MtSinai_NIST_hdf5_08072015</sub><br />
 
-<sub>alignment.index.AJtrio_10XGenomics_bwamem_GRCh37_08142015</sub>
-<sub>alignment.index.AJtrio_Illumina300X_wgs_novoalign_GRCh37_GRCh38_NHGRI_07282015</sub>
-<sub>alignment.index.AJtrio_Illumina_6kb_matepair_wgs_bwamem_GRCh37_07302015</sub>
-<sub>alignment.index.AJtrio_IonTorrent_exome_TMAP_GRCh37_07292015</sub>
+<sub>alignment.index.AJtrio_10XGenomics_bwamem_GRCh37_08142015</sub><br />
+<sub>alignment.index.AJtrio_Illumina300X_wgs_novoalign_GRCh37_GRCh38_NHGRI_07282015</sub><br />
+<sub>alignment.index.AJtrio_Illumina_6kb_matepair_wgs_bwamem_GRCh37_07302015</sub><br />
+<sub>alignment.index.AJtrio_IonTorrent_exome_TMAP_GRCh37_07292015</sub><br />
 
-<U>ChineseTrio</U>
+<strong>ChineseTrio</strong>
 
-<sub>sequence.index.ChineseTrio_HG005_NIST_SOLiD5500W_xsq_09042015</sub>
+<sub>sequence.index.ChineseTrio_HG005_NIST_SOLiD5500W_xsq_09042015</sub><br />
 
 
 
