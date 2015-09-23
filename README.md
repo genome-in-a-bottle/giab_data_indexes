@@ -3,7 +3,7 @@ This repository contains data indexes from NIST's Genome in a Bottle project. Th
 
 <br />
 <strong>AshkenazimTrio</strong><br />
-<sub>[sequence.index.AJtrio_HG002_NIST_SOLiD5500W_xsq_09042015](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/sequence.index.AJtrio_HG002_NIST_SOLiD5500W_xsq_09042015){:target="_blank"}</sub><br />
+<sub>[sequence.index.AJtrio_HG002_NIST_SOLiD5500W_xsq_09042015](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/sequence.index.AJtrio_HG002_NIST_SOLiD5500W_xsq_09042015)</sub><br />
 <sub>[sequence.index.AJtrio_Illumina300X_wgs_07292015](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/sequence.index.AJtrio_Illumina300X_wgs_07292015)</sub><br />
 <sub>[sequence.index.AJtrio_Illumina_6kb_matepair_wgs_08032015](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/sequence.index.AJtrio_Illumina_6kb_matepair_wgs_08032015)</sub><br />
 <sub>[sequence.index.AJtrio_NIST_Stanford_Moleculo_125bps_08042015](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/sequence.index.AJtrio_NIST_Stanford_Moleculo_125bps_08042015)</sub><br />
