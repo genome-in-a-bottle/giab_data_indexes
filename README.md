@@ -1,10 +1,33 @@
 # giab_data_indexes
-This repository contains data indexes from NIST's Genome in a Bottle project.
+This repository contains data indexes from NIST's Genome in a Bottle project. The indexes for sequences and alignments are also under:  ftp://ftp-trace.ncbi.nlm.nih.gov/giab/ftp/data_indexes/ .
 
-The Genome in a Bottle Consortium (www.genomeinabottle.org) is a collaboration between NIST, FDA, NCBI, other government agencies, academic sequencing groups, sequencing technology developers, and clinical laboratories. A principal motivation for this consortium is to develop widely accepted reference materials and accompanying performance metrics to provide a strong scientific foundation for the development of regulations and professional standards for clinical sequencing. NIST is developing large batches of human genome DNA from several cell lines for NIST Reference Materials (RMs), which will be characterized by the Consortium for homogeneity, stability, and sequence with as much sequencing technologies and library preparation methods as possible. Information from these datasets will be integrated to form a high-confidence set of genotype calls, which can be used by clinical and research laboratories to understand performance of their sequencing and bioinformatics methods. NCBI is serving as the DCC and repository for the raw sequencing reads, mapped reads, genotypes, and other details for each sample on a dedicated FTP site ( ftp://ftp-trace.ncbi.nlm.nih.gov/giab/ftp/ ). The pilot sample is NA12878 (HG001), and NIST received over 8,000 aliquots in April 2013, which will initially be distributed to partners in the Consortium to assist in characterization, and later will be distributed by NIST as Reference Material 8398, likely in March or April 2015. Samples from an Ashkenazim trio (son HG002-NA24385-huAA53E0, father HG003-NA24149-hu6E4515, and mother HG004-NA24143-hu8E87A9), and a Han Chinese trio (son HG005-NA24631-hu91BD69, father NA24694-huCA017E, and mother NA24695-hu38168C) from Personal Genome Project (PGP) are also candidate NIST reference materials and are currently being characterized. The Ashkenazim trio will be available both as NIST RMs 8391 (son only) and 8392 (entire trio). Only the son of the Asian trio will be a NIST RM (8393). DNA and cell lines for all samples are also available from Coriell, but the NIST RMs are from a single homogenized batch of DNA, so there may be small differences between the samples at Coriell and the NIST RMs. Details about the NIST Reference Materials, data, and future plans are at https://sites.stanford.edu/abms/content/giab-reference-materials-and-data. When the NIST RMs are available, they can be purchased from NIST at http://www.nist.gov/srm/, where a Report of Investigation describing the DNA will also be available.
+<br />
+<strong>AshkenazimTrio</strong><br />
+<sub>[sequence.index.AJtrio_Illumina300X_wgs_07292015](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/sequence.index.AJtrio_Illumina300X_wgs_07292015)</sub><br />
+<sub>[sequence.index.AJtrio_Illumina_6kb_matepair_wgs_08032015](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/sequence.index.AJtrio_Illumina_6kb_matepair_wgs_08032015)</sub><br />
+<sub>[sequence.index.AJtrio_NIST_Stanford_Moleculo_125bps_08042015](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/sequence.index.AJtrio_NIST_Stanford_Moleculo_125bps_08042015)</sub><br />
+<sub>[sequence.index.AJtrio_PacBio_MtSinai_NIST_hdf5_08072015](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/sequence.index.AJtrio_PacBio_MtSinai_NIST_hdf5_08072015)</sub><br />
+<sub>[sequence.index.AJtrio_HG002_NIST_SOLiD5500W_xsq_09042015](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/sequence.index.AJtrio_HG002_NIST_SOLiD5500W_xsq_09042015)</sub><br />
 
-Bioproject page:          http://www.ncbi.nlm.nih.gov/bioproject/PRJNA200694
+<sub>[alignment.index.AJtrio_IonTorrent_exome_TMAP_GRCh37_07292015](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/alignment.index.AJtrio_IonTorrent_exome_TMAP_GRCh37_07292015)</sub><br />
+<sub>[alignment.index.AJtrio_10XGenomics_bwamem_GRCh37_08142015](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/alignment.index.AJtrio_10XGenomics_bwamem_GRCh37_08142015)</sub><br />
+<sub>[alignment.index.AJtrio_Illumina300X_wgs_novoalign_GRCh37_GRCh38_NHGRI_07282015](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/alignment.index.AJtrio_Illumina300X_wgs_novoalign_GRCh37_GRCh38_NHGRI_07282015)</sub><br />
+<sub>[alignment.index.AJtrio_Illumina_6kb_matepair_wgs_bwamem_GRCh37_07302015](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/alignment.index.AJtrio_Illumina_6kb_matepair_wgs_bwamem_GRCh37_07302015)</sub><br />
 
-SRA Run Selector page:    http://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA200694
 
-ftp site:                 ftp://ftp-trace.ncbi.nlm.nih.gov/giab/ftp/
+<br />
+<strong>ChineseTrio</strong><br />
+<sub>[sequence.index.ChineseTrio_HG005_NIST_SOLiD5500W_xsq_09042015](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/sequence.index.ChineseTrio_HG005_NIST_SOLiD5500W_xsq_09042015)</sub><br />
+
+<br />
+<strong>NA12878</strong><br />
+<sub>[sequence.index.NA12878_PacBio_MtSinai_NIST_hdf5_08182015](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/sequence.index.NA12878_PacBio_MtSinai_NIST_hdf5_08182015)</sub><br />
+<sub>[alignment.index.NA12878_10XGenomics_bwamem_GRCh37_08142015](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/alignment.index.NA12878_10XGenomics_bwamem_GRCh37_08142015)</sub><br />
+
+
+<br />
+<strong>Please Note:</strong><br />
+<sub>1. If you want to use raw sequencing data (fastq, fasta, hdf5, xsq etc) for your analysis, then you can use the sequence.index.* files when you need to download the data.</sub>
+<br />
+<sub>2. If you want to use pre-aligned data (bam etc) for your analysis, then you can use the alignment.index.* files when you need to download the data.</sub>
+
