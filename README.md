@@ -14,7 +14,7 @@ This repository contains data indexes from NIST's Genome in a Bottle project. Th
 <sub>[alignment.index.AJtrio_10XGenomics_bwamem_GRCh37_08142015](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/AshkenazimTrio/alignment.index.AJtrio_10XGenomics_bwamem_GRCh37_08142015)</sub><br />
 <sub>[alignment.index.AJtrio_Illumina300X_wgs_novoalign_GRCh37_GRCh38_NHGRI_07282015](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/AshkenazimTrio/alignment.index.AJtrio_Illumina300X_wgs_novoalign_GRCh37_GRCh38_NHGRI_07282015)</sub><br />
 <sub>[alignment.index.AJtrio_Illumina_6kb_matepair_wgs_bwamem_GRCh37_07302015](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/AshkenazimTrio/alignment.index.AJtrio_Illumina_6kb_matepair_wgs_bwamem_GRCh37_07302015)</sub><br />
-
+<sub>[alignment.index.AJtrio_CompleteGenomics_normal_RMDNA_EvidenceBams_GRCh37_09282015](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/AshkenazimTrio/alignment.index.AJtrio_CompleteGenomics_normal_RMDNA_EvidenceBams_GRCh37_09282015)</sub><br />
 
 <br />
 <strong>ChineseTrio</strong><br />
