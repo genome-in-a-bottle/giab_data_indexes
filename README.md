@@ -24,7 +24,7 @@ This repository contains data indexes from NIST's Genome in a Bottle project. Th
 <sub>[sequence.index.ChineseTrio_NIST_Stanford_Moleculo_125bps_09232015](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/ChineseTrio/sequence.index.ChineseTrio_NIST_Stanford_Moleculo_125bps_09232015)</sub><br />
 
 <sub>[alignment.index.ChineseTrio_CompleteGenomics_normal_RMDNA_EvidenceBams_GRCh37_09282015](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/ChineseTrio/alignment.index.ChineseTrio_CompleteGenomics_normal_RMDNA_EvidenceBams_GRCh37_09282015)</sub><br />
-<sub>[alignment.index.ChineseTrio_HG005_CompleteGenomics_normal_cellsDNA_EvidenceBams_GRCh37_09282015]{https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/ChineseTrio/alignment.index.ChineseTrio_HG005_CompleteGenomics_normal_cellsDNA_EvidenceBams_GRCh37_09282015)</sub><br />
+<sub>[alignment.index.ChineseTrio_HG005_CompleteGenomics_normal_cellsDNA_EvidenceBams_GRCh37_09282015](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/ChineseTrio/alignment.index.ChineseTrio_HG005_CompleteGenomics_normal_cellsDNA_EvidenceBams_GRCh37_09282015)</sub><br />
 <sub>[alignment.index.ChineseTrio_HG005_IonTorrent_exome_TMAP_GRCh37_09232015](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/ChineseTrio/alignment.index.ChineseTrio_HG005_IonTorrent_exome_TMAP_GRCh37_09232015)</sub><br />
 
 
