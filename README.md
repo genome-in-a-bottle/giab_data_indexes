@@ -19,11 +19,27 @@ This repository contains data indexes from NIST's Genome in a Bottle project. Th
 <br />
 <strong>ChineseTrio</strong><br />
 <sub>[sequence.index.ChineseTrio_HG005_NIST_SOLiD5500W_xsq_09042015](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/ChineseTrio/sequence.index.ChineseTrio_HG005_NIST_SOLiD5500W_xsq_09042015)</sub><br />
+<sub>[sequence.index.ChineseTrio_Illumina300X100X100X_wgs_09232015](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/ChineseTrio/sequence.index.ChineseTrio_Illumina300X100X100X_wgs_09232015)</sub><br />
+<sub>[sequence.index.ChineseTrio_Illumina_6kb_matepair_wgs_09232015](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/ChineseTrio/sequence.index.ChineseTrio_Illumina_6kb_matepair_wgs_09232015)</sub><br />
+<sub>[sequence.index.ChineseTrio_NIST_Stanford_Moleculo_125bps_09232015](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/ChineseTrio/sequence.index.ChineseTrio_NIST_Stanford_Moleculo_125bps_09232015)</sub><br />
+
+<sub>[alignment.index.ChineseTrio_CompleteGenomics_normal_RMDNA_EvidenceBams_GRCh37_09282015](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/ChineseTrio/alignment.index.ChineseTrio_CompleteGenomics_normal_RMDNA_EvidenceBams_GRCh37_09282015)</sub><br />
+<sub>[alignment.index.ChineseTrio_HG005_CompleteGenomics_normal_cellsDNA_EvidenceBams_GRCh37_09282015]{https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/ChineseTrio/alignment.index.ChineseTrio_HG005_CompleteGenomics_normal_cellsDNA_EvidenceBams_GRCh37_09282015)</sub><br />
+<sub>[alignment.index.ChineseTrio_HG005_IonTorrent_exome_TMAP_GRCh37_09232015](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/ChineseTrio/alignment.index.ChineseTrio_HG005_IonTorrent_exome_TMAP_GRCh37_09232015)</sub><br />
+
 
 <br />
 <strong>NA12878</strong><br />
 <sub>[sequence.index.NA12878_PacBio_MtSinai_NIST_hdf5_08182015](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/NA12878/sequence.index.NA12878_PacBio_MtSinai_NIST_hdf5_08182015)</sub><br />
+<sub>[sequence.index.NA12878_Illumina300X_wgs_09252015](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/NA12878/sequence.index.NA12878_Illumina300X_wgs_09252015)</sub><br />
+<sub>[sequence.index.NA12878_Illumina_HiSeq_Exome_Garvan_fastq_09252015](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/NA12878/sequence.index.NA12878_Illumina_HiSeq_Exome_Garvan_fastq_09252015)</sub><br />
+<sub>[sequence.index.NA12878_Illumina_HiSeq_Exome_Garvan_trimmed_fastq_09252015](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/NA12878/sequence.index.NA12878_Illumina_HiSeq_Exome_Garvan_trimmed_fastq_09252015)</sub><br />
+
 <sub>[alignment.index.NA12878_10XGenomics_bwamem_GRCh37_08142015](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/NA12878/alignment.index.NA12878_10XGenomics_bwamem_GRCh37_08142015)</sub><br />
+<sub>[alignment.index.NA12878_CompleteGenomics_normal_RMDNA_EvidenceBams_GRCh37_09282015](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/NA12878/alignment.index.NA12878_CompleteGenomics_normal_RMDNA_EvidenceBams_GRCh37_09282015)</sub><br />
+<sub>[alignment.index.NA12878_HiSeq_Exome_Garvan_GRCh37_09252015](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/NA12878/alignment.index.NA12878_HiSeq_Exome_Garvan_GRCh37_09252015)</sub><br />
+<sub>[alignment.index.NA12878_IonTorrent_exome_TMAP_GRCh37_09252015](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/NA12878/alignment.index.NA12878_IonTorrent_exome_TMAP_GRCh37_09252015)</sub><br />
+<sub>[alignment.index.NA12878_TruSeq_Exome_Nebraska_GRCh37_09252015](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/NA12878/alignment.index.NA12878_TruSeq_Exome_Nebraska_GRCh37_09252015)</sub><br />
 
 
 <br />
