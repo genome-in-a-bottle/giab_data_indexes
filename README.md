@@ -4,22 +4,22 @@ This repository contains data indexes from NIST's Genome in a Bottle project. Th
 <br />
 <strong>AshkenazimTrio</strong><br />
 
-Platform | Index
+| Platform | Index |
 
--------- | ---------
+| -------- | ------ |
 
-<sub>Illumina WGS 300X | [sequence.index.AJtrio_Illumina300X_wgs_07292015](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/AshkenazimTrio/sequence.index.AJtrio_Illumina300X_wgs_07292015)</sub><br />
-<sub>                  | [alignment.index.AJtrio_Illumina300X_wgs_novoalign_GRCh37_GRCh38_NHGRI_07282015](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/AshkenazimTrio/alignment.index.AJtrio_Illumina300X_wgs_novoalign_GRCh37_GRCh38_NHGRI_07282015)</sub><br />
-<sub>Illumina WGS 6KB Matepair | [sequence.index.AJtrio_Illumina_6kb_matepair_wgs_08032015](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/AshkenazimTrio/sequence.index.AJtrio_Illumina_6kb_matepair_wgs_08032015)</sub><br />
-<sub>                          | [alignment.index.AJtrio_Illumina_6kb_matepair_wgs_bwamem_GRCh37_07302015](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/AshkenazimTrio/alignment.index.AJtrio_Illumina_6kb_matepair_wgs_bwamem_GRCh37_07302015)</sub><br />
-<sub>Moleculo | [sequence.index.AJtrio_NIST_Stanford_Moleculo_125bps_08042015](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/AshkenazimTrio/sequence.index.AJtrio_NIST_Stanford_Moleculo_125bps_08042015)</sub><br />
-<sub>PacificBio | [sequence.index.AJtrio_PacBio_MtSinai_NIST_hdf5_08072015](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/AshkenazimTrio/sequence.index.AJtrio_PacBio_MtSinai_NIST_hdf5_08072015)</sub><br />
-<sub>Oxford Nanopore | [sequence.index.AJtrio_HG002_Cornell_Oxford_Nanopore_06232015](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/AshkenazimTrio/sequence.index.AJtrio_HG002_Cornell_Oxford_Nanopore_06232015)</sub><br />
-<sub>SOLiD | [sequence.index.AJtrio_HG002_NIST_SOLiD5500W_xsq_09042015](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/AshkenazimTrio/sequence.index.AJtrio_HG002_NIST_SOLiD5500W_xsq_09042015)</sub><br />
+| <sub>Illumina WGS 300X | [sequence.index.AJtrio_Illumina300X_wgs_07292015](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/AshkenazimTrio/sequence.index.AJtrio_Illumina300X_wgs_07292015)</sub><br />
+<sub>                   [alignment.index.AJtrio_Illumina300X_wgs_novoalign_GRCh37_GRCh38_NHGRI_07282015](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/AshkenazimTrio/alignment.index.AJtrio_Illumina300X_wgs_novoalign_GRCh37_GRCh38_NHGRI_07282015)</sub><br /> |
+| <sub>Illumina WGS 6KB Matepair | [sequence.index.AJtrio_Illumina_6kb_matepair_wgs_08032015](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/AshkenazimTrio/sequence.index.AJtrio_Illumina_6kb_matepair_wgs_08032015)</sub><br />
+<sub>                           [alignment.index.AJtrio_Illumina_6kb_matepair_wgs_bwamem_GRCh37_07302015](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/AshkenazimTrio/alignment.index.AJtrio_Illumina_6kb_matepair_wgs_bwamem_GRCh37_07302015)</sub><br /> |
+| <sub>Moleculo | [sequence.index.AJtrio_NIST_Stanford_Moleculo_125bps_08042015](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/AshkenazimTrio/sequence.index.AJtrio_NIST_Stanford_Moleculo_125bps_08042015)</sub><br /> |
+| <sub>PacificBio | [sequence.index.AJtrio_PacBio_MtSinai_NIST_hdf5_08072015](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/AshkenazimTrio/sequence.index.AJtrio_PacBio_MtSinai_NIST_hdf5_08072015)</sub><br /> |
+| <sub>Oxford Nanopore | [sequence.index.AJtrio_HG002_Cornell_Oxford_Nanopore_06232015](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/AshkenazimTrio/sequence.index.AJtrio_HG002_Cornell_Oxford_Nanopore_06232015)</sub><br /> |
+| <sub>SOLiD | [sequence.index.AJtrio_HG002_NIST_SOLiD5500W_xsq_09042015](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/AshkenazimTrio/sequence.index.AJtrio_HG002_NIST_SOLiD5500W_xsq_09042015)</sub><br /> |
 
-<sub>IonTorrent Exome | [alignment.index.AJtrio_IonTorrent_exome_TMAP_GRCh37_07292015](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/AshkenazimTrio/alignment.index.AJtrio_IonTorrent_exome_TMAP_GRCh37_07292015)</sub><br />
-<sub>10XGenomics - [alignment.index.AJtrio_10XGenomics_bwamem_GRCh37_08142015](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/AshkenazimTrio/alignment.index.AJtrio_10XGenomics_bwamem_GRCh37_08142015)</sub><br />
-<sub>CompleteGenomics | [alignment.index.AJtrio_CompleteGenomics_normal_RMDNA_EvidenceBams_GRCh37_09282015](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/AshkenazimTrio/alignment.index.AJtrio_CompleteGenomics_normal_RMDNA_EvidenceBams_GRCh37_09282015)</sub><br />
+| <sub>IonTorrent Exome | [alignment.index.AJtrio_IonTorrent_exome_TMAP_GRCh37_07292015](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/AshkenazimTrio/alignment.index.AJtrio_IonTorrent_exome_TMAP_GRCh37_07292015)</sub><br /> |
+| <sub>10XGenomics - [alignment.index.AJtrio_10XGenomics_bwamem_GRCh37_08142015](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/AshkenazimTrio/alignment.index.AJtrio_10XGenomics_bwamem_GRCh37_08142015)</sub><br /> |
+| <sub>CompleteGenomics | [alignment.index.AJtrio_CompleteGenomics_normal_RMDNA_EvidenceBams_GRCh37_09282015](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/AshkenazimTrio/alignment.index.AJtrio_CompleteGenomics_normal_RMDNA_EvidenceBams_GRCh37_09282015)</sub><br /> |
 
 
 <br />
