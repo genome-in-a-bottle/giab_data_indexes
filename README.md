@@ -20,7 +20,7 @@ This repository contains data indexes from NIST's Genome in a Bottle project. Th
 <br />
 <strong>ChineseTrio</strong><br /> 
 
-| Sequencing Platform | Sequence Index or Alignment Index |
+| <sub>**Sequencing Platform**</sub> | <sub>**Sequence Index or Alignment Index**</sub> |
 | :-------- | :------ |
 | <sub>Illumina WGS 300X </sub> | <sub>[sequence.index.ChineseTrio_Illumina300X100X100X_wgs_09232015](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/ChineseTrio/sequence.index.ChineseTrio_Illumina300X100X100X_wgs_09232015)</sub> | 
 | <sub>Illumina 6KB Matepair </sub> | <sub>[sequence.index.ChineseTrio_Illumina_6kb_matepair_wgs_09232015](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/ChineseTrio/sequence.index.ChineseTrio_Illumina_6kb_matepair_wgs_09232015)</sub> | 
@@ -33,7 +33,7 @@ This repository contains data indexes from NIST's Genome in a Bottle project. Th
 <br />
 <strong>NA12878</strong><br />
 
-| Sequencing Platform | Sequence Index or Alignment Index |
+| <sub>**Sequencing Platform**</sub> | <sub>**Sequence Index or Alignment Index**</sub> |
 | :-------- | :------ |
 | <sub>Illumina WGS 300X </sub> | <sub>[sequence.index.NA12878_Illumina300X_wgs_09252015](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/NA12878/sequence.index.NA12878_Illumina300X_wgs_09252015)</sub> |
 | <sub>Illumina HiSeq Exome</sub> | <sub>[sequence.index.NA12878_Illumina_HiSeq_Exome_Garvan_fastq_09252015](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/NA12878/sequence.index.NA12878_Illumina_HiSeq_Exome_Garvan_fastq_09252015) [sequence.index.NA12878_Illumina_HiSeq_Exome_Garvan_trimmed_fastq_09252015](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/NA12878/sequence.index.NA12878_Illumina_HiSeq_Exome_Garvan_trimmed_fastq_09252015) [alignment.index.NA12878_HiSeq_Exome_Garvan_GRCh37_09252015](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/NA12878/alignment.index.NA12878_HiSeq_Exome_Garvan_GRCh37_09252015)</sub> |
