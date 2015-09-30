@@ -19,6 +19,7 @@ This repository contains data indexes from NIST's Genome in a Bottle project. Th
 
 <br />
 <strong>ChineseTrio</strong><br /> 
+
 | Sequencing Platform | Sequence Index or Alignment Index |
 | -------- | ------ |
 | <sub>Illumina WGS 300X </sub> | <sub>[sequence.index.ChineseTrio_Illumina300X100X100X_wgs_09232015](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/ChineseTrio/sequence.index.ChineseTrio_Illumina300X100X100X_wgs_09232015)</sub> | 
