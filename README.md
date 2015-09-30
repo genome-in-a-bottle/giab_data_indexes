@@ -7,6 +7,7 @@ This repository contains data indexes from NIST's Genome in a Bottle project. Th
 Platform | Index
 
 -------- | ---------
+
 <sub>Illumina WGS 300X | [sequence.index.AJtrio_Illumina300X_wgs_07292015](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/AshkenazimTrio/sequence.index.AJtrio_Illumina300X_wgs_07292015)</sub><br />
 <sub>                  | [alignment.index.AJtrio_Illumina300X_wgs_novoalign_GRCh37_GRCh38_NHGRI_07282015](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/AshkenazimTrio/alignment.index.AJtrio_Illumina300X_wgs_novoalign_GRCh37_GRCh38_NHGRI_07282015)</sub><br />
 <sub>Illumina WGS 6KB Matepair | [sequence.index.AJtrio_Illumina_6kb_matepair_wgs_08032015](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/AshkenazimTrio/sequence.index.AJtrio_Illumina_6kb_matepair_wgs_08032015)</sub><br />
