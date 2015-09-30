@@ -21,8 +21,7 @@ This repository contains data indexes from NIST's Genome in a Bottle project. Th
 <strong>ChineseTrio</strong><br /> 
 | Sequencing Platform | Sequence Index or Alignment Index |
 | -------- | ------ |
-| <sub>Illumina WGS 300X </sub> | 
-| <sub>[sequence.index.ChineseTrio_Illumina300X100X100X_wgs_09232015](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/ChineseTrio/sequence.index.ChineseTrio_Illumina300X100X100X_wgs_09232015)
+| <sub>Illumina WGS 300X </sub> | <sub>[sequence.index.ChineseTrio_Illumina300X100X100X_wgs_09232015](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/ChineseTrio/sequence.index.ChineseTrio_Illumina300X100X100X_wgs_09232015)</sub> | 
 | <sub>Illumina WGS 6KB Matepair </sub> | <sub>[sequence.index.ChineseTrio_Illumina_6kb_matepair_wgs_09232015](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/ChineseTrio/sequence.index.ChineseTrio_Illumina_6kb_matepair_wgs_09232015)</sub> | 
 | <sub>Moleculo</sub> | <sub>[sequence.index.ChineseTrio_NIST_Stanford_Moleculo_125bps_09232015](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/ChineseTrio/sequence.index.ChineseTrio_NIST_Stanford_Moleculo_125bps_09232015)</sub> |
 | <sub>SOLiD </sub> | <sub>[sequence.index.ChineseTrio_HG005_NIST_SOLiD5500W_xsq_09042015](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/ChineseTrio/sequence.index.ChineseTrio_HG005_NIST_SOLiD5500W_xsq_09042015)</sub> |
