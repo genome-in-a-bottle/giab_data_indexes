@@ -1,0 +1,4 @@
+BNX	BNX_MD5			NIST_SAMPLE_NAME
+ftp://ftp-trace.ncbi.nlm.nih.gov/giab/ftp/data/AshkenazimTrio/HG002_NA24385_son/BioNano/all.bnx	9e4127be48b72269c98ae86231b880a3			HG002
+ftp://ftp-trace.ncbi.nlm.nih.gov/giab/ftp/data/AshkenazimTrio/HG003_NA24149_father/BioNano/all.bnx	0d10d1109f70dc482b4dc45a656991ec			HG003
+ftp://ftp-trace.ncbi.nlm.nih.gov/giab/ftp/data/AshkenazimTrio/HG004_NA24143_mother/BioNano/all.bnx	82a6f87accb74104159a2eda11d81802			HG004
