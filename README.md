@@ -15,7 +15,7 @@ This repository contains data indexes from NIST's Genome in a Bottle project. Th
 | <sub>Ion Proton 1000x Exome</sub> | <sub>[alignment.index.AJtrio_IonTorrent_exome_TMAP_GRCh37_07292015](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/AshkenazimTrio/alignment.index.AJtrio_IonTorrent_exome_TMAP_GRCh37_07292015)</sub> |
 | <sub>10X Genomics</sub> | <sub>[alignment.index.AJtrio_10XGenomics_bwamem_GRCh37_08142015](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/AshkenazimTrio/alignment.index.AJtrio_10XGenomics_bwamem_GRCh37_08142015)</sub> |
 | <sub>CompleteGenomics</sub> | <sub>[alignment.index.AJtrio_CompleteGenomics_normal_RMDNA_EvidenceBams_GRCh37_09282015](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/AshkenazimTrio/alignment.index.AJtrio_CompleteGenomics_normal_RMDNA_EvidenceBams_GRCh37_09282015) </sub> |
-| <sub>CompleteGenomics LFR</sub> | CG LFR raw or alignment data not available, but analysis results available under: ftp://ftp-trace.ncbi.nlm.nih.gov/giab/ftp/data/AshkenazimTrio/analysis/CompleteGenomics_newLFR_CGAtools_06122015/ </sub> |
+| <sub>CompleteGenomics LFR</sub> | <sub>CG LFR raw or alignment data not available, but analysis results available under: ftp://ftp-trace.ncbi.nlm.nih.gov/giab/ftp/data/AshkenazimTrio/analysis/CompleteGenomics_newLFR_CGAtools_06122015/ </sub> |
 
 
 <br />
@@ -42,7 +42,7 @@ This repository contains data indexes from NIST's Genome in a Bottle project. Th
 | <sub>PacBio 40x</sub> | <sub>[sequence.index.NA12878_PacBio_MtSinai_NIST_hdf5_08182015](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/NA12878/sequence.index.NA12878_PacBio_MtSinai_NIST_hdf5_08182015)</sub> |
 | <sub>10X Genomics</sub> | <sub>[alignment.index.NA12878_10XGenomics_bwamem_GRCh37_08142015](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/NA12878/alignment.index.NA12878_10XGenomics_bwamem_GRCh37_08142015)</sub> | 
 | <sub>CompleteGenomics</sub> | <sub>[alignment.index.NA12878_CompleteGenomics_normal_RMDNA_EvidenceBams_GRCh37_09282015](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/NA12878/alignment.index.NA12878_CompleteGenomics_normal_RMDNA_EvidenceBams_GRCh37_09282015) </sub> | 
-| <sub>CompleteGenomics LFR</sub> | CG LFR raw or alignment data not available, but analysis results available under: ftp://ftp-trace.ncbi.nlm.nih.gov/giab/ftp/data/NA12878/analysis/CompleteGenomics_newLFR_CGAtools_06122015/ </sub> | 
+| <sub>CompleteGenomics LFR</sub> | <sub>CG LFR raw or alignment data not available, but analysis results available under: ftp://ftp-trace.ncbi.nlm.nih.gov/giab/ftp/data/NA12878/analysis/CompleteGenomics_newLFR_CGAtools_06122015/ </sub> | 
 | <sub>Ion Proton 1000x Exome</sub> | <sub>[alignment.index.NA12878_IonTorrent_exome_TMAP_GRCh37_09252015](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/NA12878/alignment.index.NA12878_IonTorrent_exome_TMAP_GRCh37_09252015)</sub> |
 
 
