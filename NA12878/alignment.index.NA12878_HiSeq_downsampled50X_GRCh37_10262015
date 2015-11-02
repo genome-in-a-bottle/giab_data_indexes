@@ -1,3 +1,3 @@
 BAM	BAM_MD5	BAI	BAI_MD5
-ftp://ftp-trace.ncbi.nlm.nih.gov/giab/ftp/data/NA12878/NIST_NA12878_HG001_HiSeq_300x/RMNISTHS_50xdownsample.bam	0be437ac376966c73605f791eb50515e	ftp://ftp-trace.ncbi.nlm.nih.gov/giab/ftp/data/NA12878/NIST_NA12878_HG001_HiSeq_300x/RMNISTHS_50xdownsample.bam.bai	867383e9343eaef3983e335e923fd4fd
+ftp://ftp-trace.ncbi.nlm.nih.gov/giab/ftp/data/NA12878/NIST_NA12878_HG001_HiSeq_300x/RMNISTHS_30xdownsample.bam	0be437ac376966c73605f791eb50515e	ftp://ftp-trace.ncbi.nlm.nih.gov/giab/ftp/data/NA12878/NIST_NA12878_HG001_HiSeq_300x/RMNISTHS_30xdownsample.bam.bai	867383e9343eaef3983e335e923fd4fd
 ~
