@@ -20,7 +20,7 @@ This repository contains data indexes from NIST's Genome in a Bottle (GIAB) proj
 | <sub>CompleteGenomics</sub> | <sub>[alignment.index.AJtrio_CompleteGenomics_normal_RMDNA_EvidenceBams_GRCh37_09282015](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/AshkenazimTrio/alignment.index.AJtrio_CompleteGenomics_normal_RMDNA_EvidenceBams_GRCh37_09282015) </sub> |
 | <sub>CompleteGenomics LFR</sub> | <sub>CG LFR raw or alignment data not available, but analysis results available under: ftp://ftp-trace.ncbi.nlm.nih.gov/giab/ftp/data/AshkenazimTrio/analysis/CompleteGenomics_newLFR_CGAtools_06122015/ </sub> |
 | <sub>BioNano</sub> | <sub>[sequence.index.AJtrio_BioNano_bnx_10012015](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/AshkenazimTrio/sequence.index.AJtrio_BioNano_bnx_10012015) <br /> [alignment.index.AJtrio_BioNano_xmap_cmap_GRC37_10012015](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/AshkenazimTrio/alignment.index.AJtrio_BioNano_xmap_cmap_GRC37_10012015) </sub> |
-| <sub>PacBio CCS 15kb_20kb</sub> | <sub>[sequence.index] <br /> [alignment.index] </sub> |
+| <sub>PacBio CCS 15kb_20kb</sub> | <sub>sequence.index <br /> alignment.index </sub> |
 
 <br />
 <strong>ChineseTrio</strong><br /> 
