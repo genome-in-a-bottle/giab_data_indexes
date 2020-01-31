@@ -1,5 +1,5 @@
 # giab_data_indexes
-This repository contains data indexes from NIST's Genome in a Bottle (GIAB) project. The indexes for sequences and alignments are also under:  ftp://ftp-trace.ncbi.nlm.nih.gov/giab/ftp/data_indexes/ .
+This repository contains data indexes from NIST's Genome in a Bottle (GIAB) project. The indexes for sequences and alignments are also under:  ftp://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/giab/data_indexes/ .
 
 <br />
 <strong>AshkenazimTrio</strong><br />
@@ -18,7 +18,7 @@ This repository contains data indexes from NIST's Genome in a Bottle (GIAB) proj
 | <sub>10X Genomics</sub> | <sub>[alignment.index.AJtrio_10XGenomics_bwamem_GRCh37_08142015](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/AshkenazimTrio/alignment.index.AJtrio_10XGenomics_bwamem_GRCh37_08142015)</sub> |
 | <sub>10X Genomics ChromiumGenome</sub> | <sub>[alignment.index.AJtrio_10Xgenomics_ChromiumGenome_GRCh37_GRCh38_06202016](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/AshkenazimTrio/alignment.index.AJtrio_10Xgenomics_ChromiumGenome_GRCh37_GRCh38_06202016)</sub> |
 | <sub>CompleteGenomics</sub> | <sub>[alignment.index.AJtrio_CompleteGenomics_normal_RMDNA_EvidenceBams_GRCh37_09282015](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/AshkenazimTrio/alignment.index.AJtrio_CompleteGenomics_normal_RMDNA_EvidenceBams_GRCh37_09282015) </sub> |
-| <sub>CompleteGenomics LFR</sub> | <sub>CG LFR raw or alignment data not available, but analysis results available under: ftp://ftp-trace.ncbi.nlm.nih.gov/giab/ftp/data/AshkenazimTrio/analysis/CompleteGenomics_newLFR_CGAtools_06122015/ </sub> |
+| <sub>CompleteGenomics LFR</sub> | <sub>CG LFR raw or alignment data not available, but analysis results available under: ftp://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/giab/data/AshkenazimTrio/analysis/CompleteGenomics_newLFR_CGAtools_06122015/ </sub> |
 | <sub>BioNano</sub> | <sub>[sequence.index.AJtrio_BioNano_bnx_10012015](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/AshkenazimTrio/sequence.index.AJtrio_BioNano_bnx_10012015) <br /> [alignment.index.AJtrio_BioNano_xmap_cmap_GRC37_10012015](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/AshkenazimTrio/alignment.index.AJtrio_BioNano_xmap_cmap_GRC37_10012015) </sub> |
 | <sub>PacBio CCS 15kb_20kb</sub> | <sub>sequence.index <br /> alignment.index </sub> |
 
@@ -49,7 +49,7 @@ This repository contains data indexes from NIST's Genome in a Bottle (GIAB) proj
 | <sub>10X Genomics</sub> | <sub>[alignment.index.NA12878_10XGenomics_bwamem_GRCh37_08142015](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/NA12878/alignment.index.NA12878_10XGenomics_bwamem_GRCh37_08142015) [alignment.index.NA12878_10XGenomics_sizeselected_bwamem_GRCh37_03082016](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/NA12878/alignment.index.NA12878_10XGenomics_sizeselected_bwamem_GRCh37_03082016)</sub> | 
 | <sub>10X Genomics ChromiumGenome</sub> | <sub>[alignment.index.NA12878_10Xgenomics_ChromiumGenome_LongRanger2.0_GRCh37_GRCh38_06202016](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/NA12878/alignment.index.NA12878_10Xgenomics_ChromiumGenome_LongRanger2.0_GRCh37_GRCh38_06202016) [alignment.index.NA12878_10Xgenomics_ChromiumGenome_LongRanger2.1_GRCh37_GRCh38_09302016](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/NA12878/alignment.index.NA12878_10Xgenomics_ChromiumGenome_LongRanger2.1_GRCh37_GRCh38_09302016)</sub> |
 | <sub>CompleteGenomics</sub> | <sub>[alignment.index.NA12878_CompleteGenomics_normal_RMDNA_EvidenceBams_GRCh37_09282015](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/NA12878/alignment.index.NA12878_CompleteGenomics_normal_RMDNA_EvidenceBams_GRCh37_09282015) </sub> | 
-| <sub>CompleteGenomics LFR</sub> | <sub>CG LFR raw or alignment data not available, but analysis results available under: ftp://ftp-trace.ncbi.nlm.nih.gov/giab/ftp/data/NA12878/analysis/CompleteGenomics_newLFR_CGAtools_06122015/ </sub> | 
+| <sub>CompleteGenomics LFR</sub> | <sub>CG LFR raw or alignment data not available, but analysis results available under: ftp://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/giab/data/NA12878/analysis/CompleteGenomics_newLFR_CGAtools_06122015/ </sub> | 
 | <sub>Ion Proton 1000x Exome</sub> | <sub>[alignment.index.NA12878_IonTorrent_exome_TMAP_GRCh37_09252015](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/NA12878/alignment.index.NA12878_IonTorrent_exome_TMAP_GRCh37_09252015)</sub> |
 | <sub>NA12878 SOLiD5500W</sub> | <sub>[alignment.index.NA12878_SOLiD5500W_NIST_LifeScope_GRCh37_06012016](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/NA12878/alignment.index.NA12878_SOLiD5500W_NIST_LifeScope_GRCh37_06012016)</sub> |
 
