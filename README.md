@@ -1,11 +1,11 @@
 # giab_data_indexes
-This repository contains data indexes from NIST's Genome in a Bottle (GIAB) project. The indexes for sequences and alignments are also under:  ftp://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/giab/data_indexes/ .
+This repository contains data indexes from NIST's Genome in a Bottle (GIAB) project. The indexes for sequences and alignments are also available under:  ftp://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/giab/data_indexes/ .
 
 <br />
 <strong>AshkenazimTrio</strong><br />
 
-| <sub>**Sequencing Platform**</sub> | <sub>**Sequence Index or Alignment Index**</sub> |
-| :-------- | :------ |
+| <sub>**Sequencing Platform**</sub> | <sub>**Sequence Index*</sub> | <sub>**Alignment Index**</sub> |
+| :-------- | :------ | :------ |
 | <sub>Illumina WGS 2x150bp 300X per individual </sub> | <sub>[sequence.index.AJtrio_Illumina300X_wgs_07292015](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/AshkenazimTrio/sequence.index.AJtrio_Illumina300X_wgs_07292015)               [alignment.index.AJtrio_Illumina300X_wgs_novoalign_GRCh37_GRCh38_NHGRI_07282015](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/AshkenazimTrio/alignment.index.AJtrio_Illumina300X_wgs_novoalign_GRCh37_GRCh38_NHGRI_07282015)</sub> |
 | <sub>Illumina 6KB Matepair </sub> | <sub>[sequence.index.AJtrio_Illumina_6kb_matepair_wgs_08032015](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/AshkenazimTrio/sequence.index.AJtrio_Illumina_6kb_matepair_wgs_08032015) [alignment.index.AJtrio_Illumina_6kb_matepair_wgs_bwamem_GRCh37_07302015](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/AshkenazimTrio/alignment.index.AJtrio_Illumina_6kb_matepair_wgs_bwamem_GRCh37_07302015)</sub> |
 | <sub>Illumina WGS 2X250bp </sub> | <sub>[sequence.index.AJtrio_Illumina_2x250bps_06012016](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/AshkenazimTrio/sequence.index.AJtrio_Illumina_2x250bps_06012016)<br >[alignment.index.AJtrio_Illumina_2x250bps_isaac-align_hg19_06012016](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/AshkenazimTrio/alignment.index.AJtrio_Illumina_2x250bps_isaac-align_hg19_06012016)<br>[alignment.index.AJtrio_Illumina_2x250bps_novoalign_GRCh37_GRCh38_NHGRI_06062016](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/AshkenazimTrio/alignment.index.AJtrio_Illumina_2x250bps_novoalign_GRCh37_GRCh38_NHGRI_06062016)</sub> |
