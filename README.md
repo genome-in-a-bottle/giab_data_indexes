@@ -58,12 +58,11 @@ This repository contains data indexes from NIST's Genome in a Bottle (GIAB) proj
 | <sub>PacBio 40x</sub> | <sub>[HG001:hdf5](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/NA12878/sequence.index.NA12878_PacBio_MtSinai_NIST_hdf5_08182015) </sub>  | <sub> </sub> |
 | <sub>10X Genomics</sub> | <sub> </sub> | <sub>bwamem: &nbsp; [HG001:hg19](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/NA12878/alignment.index.NA12878_10XGenomics_bwamem_GRCh37_08142015) <br /> HG001:hg19 (size_selected): &nbsp; [HG001:hg19 (size_selected)](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/NA12878/alignment.index.NA12878_10XGenomics_sizeselected_bwamem_GRCh37_03082016)</sub> | 
 | <sub>10X Genomics ChromiumGenome</sub> | <sub> </sub> | <sub>LongRannger2.0:  &nbsp; [HG001:hg19|hg38](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/NA12878/alignment.index.NA12878_10Xgenomics_ChromiumGenome_LongRanger2.0_GRCh37_GRCh38_06202016) <br /> LongRanger2.1: &nbsp; [HG001:hg19|hg38](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/NA12878/alignment.index.NA12878_10Xgenomics_ChromiumGenome_LongRanger2.1_GRCh37_GRCh38_09302016)</sub> |
-| <sub>CompleteGenomics</sub> | <sub> </sub> | <sub>CGItools: &nbsp; [HG001:hg19](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/NA12878/alignment.index.NA12878_CompleteGenomics_normal_RMDNA_EvidenceBams_GRCh37_09282015) </sub> | 
-| <sub>CompleteGenomics LFR</sub> | <sub>CG LFR raw or alignment data not available, but analysis results available under: ftp://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/giab/data/NA12878/analysis/CompleteGenomics_newLFR_CGAtools_06122015/ </sub> | 
+| <sub>CompleteGenomics</sub> | <sub> </sub> | <sub>CGItools: &nbsp; [HG001:hg19](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/NA12878/alignment.index.NA12878_CompleteGenomics_normal_RMDNA_EvidenceBams_GRCh37_09282015) </sub> |  
 | <sub>Ion Proton 1000x Exome</sub> | <sub> </sub> | <sub>TMAP: &nbsp; [HG001:hg19](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/NA12878/alignment.index.NA12878_IonTorrent_exome_TMAP_GRCh37_09252015)</sub> |
 | <sub>NA12878 SOLiD5500W</sub>  | <sub> </sub> | <sub>LifeScope: &nbsp; [HG001:hg19](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/NA12878/alignment.index.NA12878_SOLiD5500W_NIST_LifeScope_GRCh37_06012016)</sub> |
 
-* CompleteGenomics LFR raw or alignment data not available, but analysis results available under: ftp://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/giab/data/NA12878/analysis/CompleteGenomics_newLFR_CGAtools_06122015/ .
+* <sub>CompleteGenomics LFR raw or alignment data not available, but analysis results available under: ftp://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/giab/data/NA12878/analysis/CompleteGenomics_newLFR_CGAtools_06122015/ . </sub>
 
 
 <br />
