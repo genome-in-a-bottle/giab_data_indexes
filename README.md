@@ -27,6 +27,7 @@ This repository contains data indexes from NIST's Genome in a Bottle (GIAB) proj
 | <sub>Oxford Nanopore ultralong Promethion</sub> | <sub>sequence.index <br />  </sub> | <sub> alignment.index </sub> |
 | <sub>BGI BGISEQ500</sub> | <sub>sequence.index <br />  </sub> | <sub> alignment.index </sub> |
 | <sub>BGI MGISEQ</sub> | <sub>sequence.index <br />  </sub> | <sub> alignment.index </sub> |
+| <sub>BGI stLFR</sub> | <sub>sequence.index <br />  </sub> | <sub> alignment.index </sub> |
 
 <sub> * CompleteGenomics LFR raw or alignment data not available, but analysis results available under: ftp://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/giab/data/AshkenazimTrio/analysis/CompleteGenomics_newLFR_CGAtools_06122015/ </sub>
 <br />
@@ -45,6 +46,10 @@ This repository contains data indexes from NIST's Genome in a Bottle (GIAB) proj
 | <sub>Ion Proton 1000x Exome </sub> | <sub> </sub> |  <sub>TMAP: &nbsp; [All:hg19](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/ChineseTrio/alignment.index.ChineseTrio_HG005_IonTorrent_exome_TMAP_GRCh37_09232015)  &nbsp; &nbsp; [HG005:hg19](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/ChineseTrio/alignment.index.ChineseTrio_HG005_IonTorrent_exome_TMAP_GRCh37_09232015.HG005)</sub> | 
 | <sub>BioNano for son </sub> | <sub>[All:bnx](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/ChineseTrio/sequence.index.ChineseTrio_HG005_BioNano_bnx_10012015) &nbsp; &nbsp; [HG005:bnx](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/ChineseTrio/sequence.index.ChineseTrio_HG005_BioNano_bnx_10012015.HG005)  </sub> | <sub>  [All:hg19 (cmap)](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/ChineseTrio/alignment.index.ChineseTrio_HG005_BioNano_xmap_cmap_GRC37_10012015) &nbsp; &nbsp; [HG005:hg19 (cmap)](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/ChineseTrio/alignment.index.ChineseTrio_HG005_BioNano_xmap_cmap_GRC37_10012015.HG005)  </sub> |
 | <sub>PacBio Sequel for the trio</sub> | <sub>[All](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/ChineseTrio/sequence.index.ChineseTrio_NIST_MtSinai_PacBio_Sequel_fasta_09282018) &nbsp; &nbsp; [HG005](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/ChineseTrio/sequence.index.ChineseTrio_NIST_MtSinai_PacBio_Sequel_fasta_09282018.HG005) &nbsp; &nbsp; [HG006](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/ChineseTrio/sequence.index.ChineseTrio_NIST_MtSinai_PacBio_Sequel_fasta_09282018.HG006) &nbsp; &nbsp; [HG007](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/ChineseTrio/sequence.index.ChineseTrio_NIST_MtSinai_PacBio_Sequel_fasta_09282018.HG007) </sub> | <sub> </sub> |
+| <sub>PacBio SequelII CCS 11kb</sub> | <sub>sequence.index <br />  </sub> | <sub> alignment.index </sub> |
+| <sub>BGI BGISEQ500</sub> | <sub>sequence.index <br />  </sub> | <sub> alignment.index </sub> |
+| <sub>BGI MGISEQ</sub> | <sub>sequence.index <br />  </sub> | <sub> alignment.index </sub> |
+| <sub>BGI stLFR</sub> | <sub>sequence.index <br />  </sub> | <sub> alignment.index </sub> |
 
 <br />
 <br />
@@ -61,6 +66,10 @@ This repository contains data indexes from NIST's Genome in a Bottle (GIAB) proj
 | <sub>CompleteGenomics</sub> | <sub> </sub> | <sub>CGAtools: &nbsp; [HG001:hg19](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/NA12878/alignment.index.NA12878_CompleteGenomics_normal_RMDNA_EvidenceBams_GRCh37_09282015) </sub> |  
 | <sub>Ion Proton 1000x Exome</sub> | <sub> </sub> | <sub>TMAP: &nbsp; [HG001:hg19](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/NA12878/alignment.index.NA12878_IonTorrent_exome_TMAP_GRCh37_09252015)</sub> |
 | <sub>NA12878 SOLiD5500W</sub>  | <sub> </sub> | <sub>LifeScope: &nbsp; [HG001:hg19](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/NA12878/alignment.index.NA12878_SOLiD5500W_NIST_LifeScope_GRCh37_06012016)</sub> |
+| <sub>BGI BGISEQ500</sub> | <sub>sequence.index <br />  </sub> | <sub> alignment.index </sub> |
+| <sub>BGI MGISEQ</sub> | <sub>sequence.index <br />  </sub> | <sub> alignment.index </sub> |
+| <sub>BGI stLFR</sub> | <sub>sequence.index <br />  </sub> | <sub> alignment.index </sub> |
+| <sub>PacBio SequelII CCS 11kb</sub> | <sub>sequence.index <br />  </sub> | <sub> alignment.index </sub> |
 
 * <sub>CompleteGenomics LFR raw or alignment data not available, but analysis results available under: ftp://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/giab/data/NA12878/analysis/CompleteGenomics_newLFR_CGAtools_06122015/ . </sub>
 
