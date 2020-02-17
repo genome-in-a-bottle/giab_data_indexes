@@ -4,9 +4,9 @@ This repository contains data indexes from NIST's Genome in a Bottle (GIAB) proj
 <br />
 <strong>AshkenazimTrio</strong><br />
 
-Son:HG002 &nbsp; &nbsp; https://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/giab/data/AshkenazimTrio/HG002_NA24385_son/
-Father:HG003 &nbsp; &nbsp; https://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/giab/data/AshkenazimTrio/HG003_NA24149_father/
-Mother:HG004 &nbsp; &nbsp; https://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/giab/data/AshkenazimTrio/HG004_NA24143_mother/
+Son:HG002 &nbsp; &nbsp; <sub>https://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/giab/data/AshkenazimTrio/HG002_NA24385_son/ </sub>
+Father:HG003 &nbsp; &nbsp; <sub> https://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/giab/data/AshkenazimTrio/HG003_NA24149_father/  </sub>
+Mother:HG004 &nbsp; &nbsp; >sub> https://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/giab/data/AshkenazimTrio/HG004_NA24143_mother/  </sub>
 <br />
 
 | <sub>**Sequencing Platform**</sub> | <sub>**Sequence Index**</sub> | <sub>**Alignment Index**</sub> |
@@ -40,9 +40,9 @@ Mother:HG004 &nbsp; &nbsp; https://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/g
 <br />
 <strong>ChineseTrio</strong><br /> 
 <br />
-Son:HG005 &nbsp; &nbsp; https://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/giab/data/ChineseTrio/HG005_NA24631_son/
-Father:HG006  &nbsp; &nbsp; https://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/giab/data/ChineseTrio/HG006_NA24694-huCA017E_father/
-Mother:HG007  &nbsp; &nbsp; https://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/giab/data/ChineseTrio/HG007_NA24695-hu38168_mother/
+Son:HG005    &nbsp; &nbsp; <sub> https://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/giab/data/ChineseTrio/HG005_NA24631_son/ </sub>
+Father:HG006  &nbsp; &nbsp; <sub> https://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/giab/data/ChineseTrio/HG006_NA24694-huCA017E_father/ </sub>
+Mother:HG007  &nbsp; &nbsp; <sub> https://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/giab/data/ChineseTrio/HG007_NA24695-hu38168_mother/  </sub>
 <br />
 
 | <sub>**Sequencing Platform**</sub> | <sub>**Sequence Index**</sub> | <sub>**Alignment Index**</sub> |
@@ -65,9 +65,9 @@ Mother:HG007  &nbsp; &nbsp; https://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/
 <br />
 <strong>NA12878</strong><br />
 <br />
-NA12878:HG001  &nbsp;  &nbsp; https://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/giab/data/NA12878/
+NA12878:HG001  &nbsp;  &nbsp; <sub> https://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/giab/data/NA12878/ </sub>
 <br />
-
+<br />
 
 | <sub>**Sequencing Platform**</sub> | <sub>**Sequence Index**</sub> | <sub>**Alignment Index**</sub> |
 | :-------- | :------ | :------ |
