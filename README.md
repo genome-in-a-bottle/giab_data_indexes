@@ -3,9 +3,9 @@ This repository contains data indexes from NIST's Genome in a Bottle (GIAB) proj
 
 <br />
 <strong>AshkenazimTrio</strong><br />
-
-Son:HG002 &nbsp; &nbsp; <sub>https://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/giab/data/AshkenazimTrio/HG002_NA24385_son/ </sub>
-Father:HG003 &nbsp; &nbsp; <sub> https://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/giab/data/AshkenazimTrio/HG003_NA24149_father/  </sub>
+<br />
+Son:HG002 &nbsp; &nbsp; <sub>https://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/giab/data/AshkenazimTrio/HG002_NA24385_son/ </sub><br>
+Father:HG003 &nbsp; &nbsp; <sub> https://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/giab/data/AshkenazimTrio/HG003_NA24149_father/  </sub><br>
 Mother:HG004 &nbsp; &nbsp; >sub> https://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/giab/data/AshkenazimTrio/HG004_NA24143_mother/  </sub>
 <br />
 
@@ -40,8 +40,8 @@ Mother:HG004 &nbsp; &nbsp; >sub> https://ftp-trace.ncbi.nlm.nih.gov/ReferenceSam
 <br />
 <strong>ChineseTrio</strong><br /> 
 <br />
-Son:HG005    &nbsp; &nbsp; <sub> https://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/giab/data/ChineseTrio/HG005_NA24631_son/ </sub>
-Father:HG006  &nbsp; &nbsp; <sub> https://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/giab/data/ChineseTrio/HG006_NA24694-huCA017E_father/ </sub>
+Son:HG005    &nbsp; &nbsp; <sub> https://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/giab/data/ChineseTrio/HG005_NA24631_son/ </sub><br>
+Father:HG006  &nbsp; &nbsp; <sub> https://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/giab/data/ChineseTrio/HG006_NA24694-huCA017E_father/ </sub><br>
 Mother:HG007  &nbsp; &nbsp; <sub> https://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/giab/data/ChineseTrio/HG007_NA24695-hu38168_mother/  </sub>
 <br />
 
