@@ -1,0 +1,4 @@
+FASTQ	FASTQ_MD5	NIST_SAMPLE_NAME
+ftp://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/giab/data/AshkenazimTrio/HG002_NA24385_son/UCSC_Ultralong_OxfordNanopore_Promethion/GM24385_1.fastq.gz	d7c1c0ff883188442471b3b8e4d3b119	HG002
+ftp://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/giab/data/AshkenazimTrio/HG002_NA24385_son/UCSC_Ultralong_OxfordNanopore_Promethion/GM24385_2.fastq.gz	885e56952b657af9abc7ca644151411e	HG002
+ftp://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/giab/data/AshkenazimTrio/HG002_NA24385_son/UCSC_Ultralong_OxfordNanopore_Promethion/GM24385_3.fastq.gz	44db90946947ee7c1ddc4783a010ade9	HG003
