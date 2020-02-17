@@ -1,8 +1,13 @@
 # giab_data_indexes
-This repository contains data indexes from NIST's Genome in a Bottle (GIAB) project. The indexes for sequences and alignments are also available under: [ftp://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/giab/data_indexes](ftp://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/giab/data_indexes/) .
+This repository contains data indexes from NIST's Genome in a Bottle (GIAB) project. The indexes for sequences and alignments are also available under: [ftp://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/giab/data_indexes](https://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/giab/data_indexes/) .
 
 <br />
 <strong>AshkenazimTrio</strong><br />
+
+Son:HG002 &nbsp; &nbsp; https://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/giab/data/AshkenazimTrio/HG002_NA24385_son/
+Father:HG003 &nbsp; &nbsp; https://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/giab/data/AshkenazimTrio/HG003_NA24149_father/
+Mother:HG004 &nbsp; &nbsp; https://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/giab/data/AshkenazimTrio/HG004_NA24143_mother/
+<br />
 
 | <sub>**Sequencing Platform**</sub> | <sub>**Sequence Index**</sub> | <sub>**Alignment Index**</sub> |
 | :-------- | :------ | :------ |
@@ -23,8 +28,8 @@ This repository contains data indexes from NIST's Genome in a Bottle (GIAB) proj
 | <sub>PacBio CCS 15kb</sub> | <sub>sequence.index <br />  </sub> | <sub> alignment.index </sub> |
 | <sub>PacBio CCS 15kb_20kb chemistry2</sub> | <sub>sequence.index <br />  </sub> | <sub> alignment.index </sub> |
 | <sub>Oxford Nanopore 2D</sub> | <sub>[All](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/AshkenazimTrio/sequence.index.AJtrio_HG002_Cornell_Oxford_Nanopore_fasta_fastq_10132015) &nbsp; &nbsp; [HG002](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/AshkenazimTrio/sequence.index.AJtrio_HG002_Cornell_Oxford_Nanopore_fasta_fastq_10132015.HG002) </sub>   | <sub> </sub> |
-| <sub>Oxford Nanopore ultralong MinION </sub> | <sub>sequence.index <br />  </sub> | <sub> alignment.index </sub> |
-| <sub>Oxford Nanopore ultralong Promethion</sub> | <sub>sequence.index <br />  </sub> | <sub> alignment.index </sub> |
+| <sub>Oxford Nanopore ultralong MinION </sub> | <sub>[All](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/AshkenazimTrio/sequence.index.AJtrio_UCSC_ONT_UL_guppy-V3.2.4_2020-01-22.HG002) &nbsp; &nbsp; [HG002](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/AshkenazimTrio/sequence.index.AJtrio_UCSC_ONT_UL_guppy-V3.2.4_2020-01-22.HG002)   </sub> | <sub> [All](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/AshkenazimTrio/alignment.index.AJtrio_UCSC_ONT_UL_guppy-V3.2.4_2020-01-22.HG002) &nbsp; &nbsp; [HG002](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/AshkenazimTrio/alignment.index.AJtrio_UCSC_ONT_UL_guppy-V3.2.4_2020-01-22.HG002) </sub> |
+| <sub>Oxford Nanopore ultralong Promethion</sub> | <sub> [All](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/AshkenazimTrio/sequence.index.AJtrio_UCSC_ONT_UL_Promethion_03312019) &nbsp; &nbsp; [HG002](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/AshkenazimTrio/sequence.index.AJtrio_UCSC_ONT_UL_Promethion_03312019.HG002) &nbsp; &nbsp; [HG003](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/AshkenazimTrio/sequence.index.AJtrio_UCSC_ONT_UL_Promethion_03312019.HG003) &nbsp; &nbsp [HG004](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/AshkenazimTrio/sequence.index.AJtrio_UCSC_ONT_UL_Promethion_03312019.HG004) </sub> | <sub> - </sub> |
 | <sub>BGI BGISEQ500</sub> | <sub>sequence.index <br />  </sub> | <sub> alignment.index </sub> |
 | <sub>BGI MGISEQ</sub> | <sub>sequence.index <br />  </sub> | <sub> alignment.index </sub> |
 | <sub>BGI stLFR</sub> | <sub>sequence.index <br />  </sub> | <sub> alignment.index </sub> |
@@ -34,6 +39,11 @@ This repository contains data indexes from NIST's Genome in a Bottle (GIAB) proj
 <br />
 <br />
 <strong>ChineseTrio</strong><br /> 
+<br />
+Son:HG005 &nbsp; &nbsp; https://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/giab/data/ChineseTrio/HG005_NA24631_son/
+Father:HG006  &nbsp; &nbsp; https://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/giab/data/ChineseTrio/HG006_NA24694-huCA017E_father/
+Mother:HG007  &nbsp; &nbsp; https://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/giab/data/ChineseTrio/HG007_NA24695-hu38168_mother/
+<br />
 
 | <sub>**Sequencing Platform**</sub> | <sub>**Sequence Index**</sub> | <sub>**Alignment Index**</sub> |
 | :-------- | :------ | :------ |
@@ -54,6 +64,10 @@ This repository contains data indexes from NIST's Genome in a Bottle (GIAB) proj
 <br />
 <br />
 <strong>NA12878</strong><br />
+<br />
+NA12878:HG001  &nbsp;  &nbsp; https://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/giab/data/NA12878/
+<br />
+
 
 | <sub>**Sequencing Platform**</sub> | <sub>**Sequence Index**</sub> | <sub>**Alignment Index**</sub> |
 | :-------- | :------ | :------ |
