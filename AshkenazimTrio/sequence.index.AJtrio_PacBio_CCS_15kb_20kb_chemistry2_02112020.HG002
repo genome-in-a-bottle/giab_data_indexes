@@ -1,0 +1,7 @@
+FASTQ	FASTQ_MD5	NIST_SAMPLE_NAME
+https://sra-pub-src-2.s3.amazonaws.com/SRR10382245/m64011_190830_220126.fastq.1	9eecec4d881413ba69fde9910956c32d  HG002
+https://sra-pub-src-2.s3.amazonaws.com/SRR10382244/m64011_190901_095311.fastq.1	3c89536dba41a944b6ffecfdfe16133c HG002 
+https://sra-pub-src-2.s3.amazonaws.com/SRR10382249/m64012_190920_173625.fastq.1	82255edbf085abfc7e0622efde88772a HG002 
+https://sra-pub-src-2.s3.amazonaws.com/SRR10382248/m64012_190921_234837.fastq.1	7fda6bb276e4d73605aac4c86eb74957 HG002	 
+https://sra-pub-src-2.s3.amazonaws.com/SRR10382247/m64015_190920_185703.fastq.1	d9f1597aff75be85ad5676b231a2a2fc HG002 
+https://sra-pub-src-2.s3.amazonaws.com/SRR10382246/m64015_190922_010918.fastq.1	6d3fb07e5a6a77b2d7f2e666f2a4ca89 HG002 
