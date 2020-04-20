@@ -86,7 +86,7 @@ NA12878:HG001  &nbsp;  &nbsp; <sub> https://ftp-trace.ncbi.nlm.nih.gov/Reference
 | <sub>BGI stLFR</sub> | <sub>sequence.index <br />  </sub> | <sub> alignment.index </sub> |
 | <sub>PacBio 40x</sub> | <sub>[HG001:hdf5](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/NA12878/sequence.index.NA12878_PacBio_MtSinai_NIST_hdf5_08182015) </sub>  | <sub> </sub> |
 | <sub>PacBio SequelII CCS 11kb</sub> | <sub>sequence.index <br />  </sub> | <sub> alignment.index </sub> |
-| <sub>Ultralong_OxfordNanopore</sub> | <sub> - <br />  </sub> | <sub>[HG001](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/NA12878/alignment.index.NA12878_10XGenomics_minimap2_GRCh37_GRCh38_03242020)</sub> |
+| <sub>Ultralong_OxfordNanopore</sub> | <sub> - <br />  </sub> | <sub>minimap2: &nbsp; [HG001](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/NA12878/alignment.index.NA12878_UL_OxfordNano_minimap2_GRCh37_GRCh38_03242020)</sub> |
 
 * <sub>CompleteGenomics LFR raw or alignment data not available, but analysis results available under: ftp://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/giab/data/NA12878/analysis/CompleteGenomics_newLFR_CGAtools_06122015/ . </sub>
 
