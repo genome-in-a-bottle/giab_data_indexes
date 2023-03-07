@@ -1,12 +1,12 @@
 # giab_data_indexes
-This repository contains data indexes from NIST's Genome in a Bottle (GIAB) project. The indexes for sequences and alignments are also available under: [ftp://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/giab/data_indexes](https://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/giab/data_indexes/) .
+This repository contains data indexes from NIST's Genome in a Bottle (GIAB) project. The indexes for sequences and alignments are also available under: [https://ftp.ncbi.nlm.nih.gov/ReferenceSamples/giab/data_indexes](https://ftp.ncbi.nlm.nih.gov/ReferenceSamples/giab/data_indexes/) .
 
 <br />
 <strong>AshkenazimTrio</strong><br />
 <br />
-Son:HG002 &nbsp; &nbsp; <sub>https://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/giab/data/AshkenazimTrio/HG002_NA24385_son/ </sub><br>
-Father:HG003&nbsp; &nbsp; <sub> https://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/giab/data/AshkenazimTrio/HG003_NA24149_father/  </sub><br>
-Mother:HG004 &nbsp; &nbsp; <sub> https://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/giab/data/AshkenazimTrio/HG004_NA24143_mother/  </sub>
+Son:HG002 &nbsp; &nbsp; <sub>https://ftp.ncbi.nlm.nih.gov/ReferenceSamples/giab/data/AshkenazimTrio/HG002_NA24385_son/ </sub><br>
+Father:HG003&nbsp; &nbsp; <sub> https://ftp.ncbi.nlm.nih.gov/ReferenceSamples/giab/data/AshkenazimTrio/HG003_NA24149_father/  </sub><br>
+Mother:HG004 &nbsp; &nbsp; <sub> https://ftp.ncbi.nlm.nih.gov/ReferenceSamples/giab/data/AshkenazimTrio/HG004_NA24143_mother/  </sub>
 <br />
 <br />
 
@@ -36,15 +36,15 @@ Mother:HG004 &nbsp; &nbsp; <sub> https://ftp-trace.ncbi.nlm.nih.gov/ReferenceSam
 | <sub>BGI stLFR</sub> | <sub> [All](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/AshkenazimTrio/sequence.index.AJtrio_BGI_MGISEQ_stLFR_07112018)  &nbsp;  &nbsp; [HG002](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/AshkenazimTrio/sequence.index.AJtrio_BGI_MGISEQ_stLFR_07112018.HG002) &nbsp;  &nbsp; [HG003](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/AshkenazimTrio/sequence.index.AJtrio_BGI_MGISEQ_stLFR_07112018.HG003) &nbsp;  &nbsp; [HG004](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/AshkenazimTrio/sequence.index.AJtrio_BGI_MGISEQ_stLFR_07112018.HG004)   </sub> | <sub> [All:bwamem:hg19](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/AshkenazimTrio/alignment.index.AJtrio_BGI_stLFR_bwamem_GRCh37_07112018) &nbsp; &nbsp; [HG002](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/AshkenazimTrio/alignment.index.AJtrio_BGI_stLFR_bwamem_GRCh37_07112018.HG002) &nbsp; &nbsp; [HG003](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/AshkenazimTrio/alignment.index.AJtrio_BGI_stLFR_bwamem_GRCh37_07112018.HG003) &nbsp; &nbsp; [HG004](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/AshkenazimTrio/alignment.index.AJtrio_BGI_stLFR_bwamem_GRCh37_07112018.HG004)</sub> |
 | <sub>Strand-Seq HG002 by BCCRC</sub> | <sub> [All](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/AshkenazimTrio/sequence.index.AJtrio_HG002_Strand-seq_BCCRC_04202020)  &nbsp; &nbsp; [HG002](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/AshkenazimTrio/sequence.index.AJtrio_HG002_Strand-seq_BCCRC_04202020)  </sub> | <sub> - </sub> |
 
-<sub> * CompleteGenomics LFR raw or alignment data not available, but analysis results available under: ftp://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/giab/data/AshkenazimTrio/analysis/CompleteGenomics_newLFR_CGAtools_06122015/ </sub>
+<sub> * CompleteGenomics LFR raw or alignment data not available, but analysis results available under: https://ftp.ncbi.nlm.nih.gov/ReferenceSamples/giab/data/AshkenazimTrio/analysis/CompleteGenomics_newLFR_CGAtools_06122015/ </sub>
 <br />
 <br />
 <br />
 <strong>ChineseTrio</strong><br /> 
 <br />
-Son:HG005    &nbsp; &nbsp; <sub> https://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/giab/data/ChineseTrio/HG005_NA24631_son/ </sub><br>
-Father:HG006  &nbsp; &nbsp; <sub> https://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/giab/data/ChineseTrio/HG006_NA24694-huCA017E_father/ </sub><br>
-Mother:HG007  &nbsp; &nbsp; <sub> https://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/giab/data/ChineseTrio/HG007_NA24695-hu38168_mother/  </sub>
+Son:HG005    &nbsp; &nbsp; <sub> https://ftp.ncbi.nlm.nih.gov/ReferenceSamples/giab/data/ChineseTrio/HG005_NA24631_son/ </sub><br>
+Father:HG006  &nbsp; &nbsp; <sub> https://ftp.ncbi.nlm.nih.gov/ReferenceSamples/giab/data/ChineseTrio/HG006_NA24694-huCA017E_father/ </sub><br>
+Mother:HG007  &nbsp; &nbsp; <sub> https://ftp.ncbi.nlm.nih.gov/ReferenceSamples/giab/data/ChineseTrio/HG007_NA24695-hu38168_mother/  </sub>
 <br />
 
 | <sub>**Sequencing Platform**</sub> | <sub>**Sequence**</sub> | <sub>**Alignment**</sub> |
@@ -67,7 +67,7 @@ Mother:HG007  &nbsp; &nbsp; <sub> https://ftp-trace.ncbi.nlm.nih.gov/ReferenceSa
 <br />
 <strong>NA12878</strong><br />
 <br />
-NA12878:HG001  &nbsp;  &nbsp; <sub> https://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/giab/data/NA12878/ </sub>
+NA12878:HG001  &nbsp;  &nbsp; <sub> https://ftp.ncbi.nlm.nih.gov/ReferenceSamples/giab/data/NA12878/ </sub>
 <br />
 <br />
 
@@ -88,7 +88,7 @@ NA12878:HG001  &nbsp;  &nbsp; <sub> https://ftp-trace.ncbi.nlm.nih.gov/Reference
 | <sub>PacBio SequelII CCS 11kb</sub> | <sub>sequence.index <br />  </sub> | <sub> alignment.index </sub> |
 | <sub>Ultralong_OxfordNanopore</sub> | <sub> - <br />  </sub> | <sub>minimap2: &nbsp; [HG001](https://github.com/genome-in-a-bottle/giab_data_indexes/blob/master/NA12878/alignment.index.NA12878_UL_OxfordNano_minimap2_GRCh37_GRCh38_03242020)</sub> |
 
-* <sub>CompleteGenomics LFR raw or alignment data not available, but analysis results available under: ftp://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/giab/data/NA12878/analysis/CompleteGenomics_newLFR_CGAtools_06122015/ . </sub>
+* <sub>CompleteGenomics LFR raw or alignment data not available, but analysis results available under: https://ftp.ncbi.nlm.nih.gov/ReferenceSamples/giab/data/NA12878/analysis/CompleteGenomics_newLFR_CGAtools_06122015/ . </sub>
 
 
 <br />
