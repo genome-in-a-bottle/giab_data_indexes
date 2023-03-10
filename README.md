@@ -88,16 +88,24 @@ NA12878:HG001  &nbsp;  &nbsp; <sub> https://ftp.ncbi.nlm.nih.gov/ReferenceSample
 
 * <sub>CompleteGenomics LFR raw or alignment data not available, but analysis results available under: https://ftp.ncbi.nlm.nih.gov/ReferenceSamples/giab/data/NA12878/analysis/CompleteGenomics_newLFR_CGAtools_06122015/ . </sub>
 
+
 | <sub>**NIST_SampleID**</sub> | <sub>**Platform**</sub> | <sub>**SRA_SRS**</sub> | <sub>**BioSample**</sub> | <sub>**BioProject**</sub> |  <sub>**StudyID**</sub> | <sub>**Study_Title**</sub> |  <sub>**Submitter**</sub> | <sub>**Total_bps**</sub> | <sub>**Coverage (X)**</sub> |  <sub>**SRA_Runs**</sub> | <sub>**SRA_Experiments**</sub> |  <sub>**Sequence_files**</sub> |
 | :-------- | :------ | :------ | :-------- | :------ | :------ | :-------- | :------ | :------ | :-------- | :------ | :------ | :------ |
 
 | <sub>HG001</sub> | <sub>ION_TORRENT</sub> | <sub>SRS000090</sub> | <sub>SAMN00801888</sub> | <sub>PRJNA162355</sub> | <sub>SRP012400</sub> | <sub>NIST NA12878 Ion Torrent Proton</sub> | <sub>NCBI</sub> | <sub>32858893768</sub> | <sub>10.95</sub> | <sub>1</sub> | <sub>1</sub> | <sub>1</sub> |
+
 | <sub>HG001</sub> | <sub>   ILLUMINA</sub> | <sub>        SRS921479</sub> | <sub>       SAMN03492678</sub> | <sub>    PRJNA200694</sub> | <sub>     SRP047086</sub> | <sub>       GIAB Illumina 10X Genomics-  HG001: NA12878</sub> | <sub>   NCBI</sub> | <sub>    116537324058</sub> | <sub>    38.84</sub> | <sub>   1</sub> | <sub>      1</sub> | <sub>       1</sub> |
+
 | <sub>HG001</sub> | <sub>   ILLUMINA</sub> | <sub>        SRS921479</sub> | <sub>       SAMN03492678</sub> | <sub>    PRJNA200694</sub> | <sub>     SRP047086</sub> | <sub>       NIST Genome in a Bottle, 300X sequencing of HG001 (NA12878)</sub> | <sub>   NCBI</sub> | <sub>    917353024704</sub> | <sub>    305.78</sub> | <sub>  88</sub> | <sub>   88</sub> | <sub>       1742</sub> |
+
 | <sub>HG001</sub> | <sub>   ABI_SOLID</sub> | <sub>       SRS000090</sub> | <sub>       SAMN00801888</sub> | <sub>    PRJNA162355</sub> | <sub>     SRP012400</sub> | <sub>       HSPH_NA12878_SOLiD</sub> | <sub>    NCBI</sub> | <sub>    71285783600</sub> | <sub>     23.76</sub> | <sub>   1</sub> | <sub>       1</sub> | <sub>       2</sub> |
+
 | <sub>HG001</sub> | <sub>   ILLUMINA</sub> | <sub>        SRS000090</sub> | <sub>       SAMN00801888</sub> | <sub>    PRJNA162355</sub> | <sub>     SRP012400</sub> | <sub>       Get-RM: NA12878- NIST GIAB Nextera Garvan Institute Exome</sub> | <sub>     NCBI</sub> | <sub>    16011462753</sub> | <sub>     5.33</sub> | <sub>    4</sub> | <sub>    4</sub> |
+
 | <sub>HG001</sub> | <sub>   PACBIO_SMRT</sub> | <sub>     SRS000090</sub> | <sub>       SAMN00801888</sub> | <sub>    PRJNA162355</sub> | <sub>     SRP012400</sub> | <sub>       Get-RM: NA12878- NIST GIAB Mt Sinai PacBio</sub> | <sub>    NCBI</sub> | <sub>    176931641323</sub> | <sub>    58.97</sub> | <sub>   1</sub> | <sub>       1</sub> | <sub>       1</sub> |
+
 | <sub>HG001</sub> | <sub>   ILLUMINA</sub> | <sub>        SRS000090</sub> | <sub>       SAMN00801888</sub> | <sub>    PRJNA200694</sub> | <sub>     SRP047086</sub> | <sub>       NIST NA12878 reference DNA by UNMC</sub> | <sub>    UNIVERSITY OF NEBRASKA MEDICAL CENTER</sub> | <sub>   14272897306</sub> | <sub>     4.75</sub> | <sub> 2</sub> |
+
 | <sub>HG001</sub> | <sub>   ABI_SOLID</sub> | <sub>       SRS000090</sub> | <sub>       SAMN00801888</sub> | <sub>    PRJNA162355</sub> | <sub>     SRP012400</sub> | <sub>       NIST NA12878 SOLiD5500</sub> | <sub>        NCBI</sub> | <sub>    18538403750</sub> | <sub>     6.17</sub> | <sub>    1</sub> | <sub>       1</sub> | <sub>1</sub> |
 
 
