@@ -94,7 +94,6 @@ NA12878:HG001  &nbsp;  &nbsp; <sub> https://ftp.ncbi.nlm.nih.gov/ReferenceSample
 
 | <sub>**NIST_SampleID**</sub> | <sub>**Platform**</sub> | <sub>**SRA_SRS**</sub> | <sub>**BioSample**</sub> | <sub>**BioProject**</sub> |  <sub>**StudyID**</sub> | <sub>**Study_Title**</sub> |  <sub>**Submitter**</sub> | <sub>**Total_bps**</sub> | <sub>**Coverage (X)**</sub> |  <sub>**SRA_Runs**</sub> | <sub>**SRA_Experiments**</sub> |  <sub>**Sequence_files**</sub> |
 | :-------- | :------ | :------ | :-------- | :------ | :------ | :-------- | :------ | :------ | :-------- | :------ | :------ | :------ |
-
 | <sub>HG001</sub> | <sub>ION_TORRENT</sub> | <sub>SRS000090</sub> | <sub>SAMN00801888</sub> | <sub>PRJNA162355</sub> | <sub>SRP012400</sub> | <sub>NIST NA12878 Ion Torrent Proton</sub> | <sub>NCBI</sub> | <sub>32858893768</sub> | <sub>10.95</sub> | <sub>1</sub> | <sub>1</sub> | <sub>1</sub> |
 
 | <sub>HG001</sub> | <sub>   ILLUMINA</sub> | <sub>        SRS921479</sub> | <sub>       SAMN03492678</sub> | <sub>    PRJNA200694</sub> | <sub>     SRP047086</sub> | <sub>       GIAB Illumina 10X Genomics-  HG001: NA12878</sub> | <sub>   NCBI</sub> | <sub>    116537324058</sub> | <sub>    38.84</sub> | <sub>   1</sub> | <sub>      1</sub> | <sub>       1</sub> |
