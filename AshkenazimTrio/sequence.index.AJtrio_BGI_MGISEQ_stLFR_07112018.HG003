@@ -1,2 +1,0 @@
-FASTQ	FASTQ_MD5	PAIRED_FASTQ	PAIRED_FASTQ_MD5	NIST_SAMPLE_NAME
-ftp://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/giab/data/AshkenazimTrio/HG003_NA24149_father/stLFR/stLFR_NA24149_split_read.1.fq.gz	860038d5370131210f4254346b1c4f3e	ftp://ftp-trace.ncbi.nlm.nih.gov/ReferenceSamples/giab/data/AshkenazimTrio/HG003_NA24149_father/stLFR/stLFR_NA24149_split_read.2.fq.gz	142847ca579b5c330769b13cf6c6c0d2	HG003
