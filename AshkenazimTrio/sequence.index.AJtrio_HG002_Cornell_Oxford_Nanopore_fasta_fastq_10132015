@@ -1,3 +1,3 @@
-FASTA_FASTQ	FASTA_FASTQ_MD5			NIST_SAMPLE_NAME
-ftp://ftp-trace.ncbi.nih.gov/ReferenceSamples/giab/data/AshkenazimTrio/HG002_NA24385_son/CORNELL_Oxford_Nanopore/giab.hg002.2D.fasta	07fb27548ce2a762518e4012854cccba			HG002
-ftp://ftp-trace.ncbi.nih.gov/ReferenceSamples/giab/data/AshkenazimTrio/HG002_NA24385_son/CORNELL_Oxford_Nanopore/giab.hg002.2D.fastq	b1b730d8d9a4abcb15e4235d295d2a0d			HG002
+FASTA_FASTQ	FASTA_FASTQ_MD5	NIST_SAMPLE_NAME
+ftp://ftp-trace.ncbi.nih.gov/ReferenceSamples/giab/data/AshkenazimTrio/HG002_NA24385_son/CORNELL_Oxford_Nanopore/giab.hg002.2D.fasta	07fb27548ce2a762518e4012854cccba	HG002
+ftp://ftp-trace.ncbi.nih.gov/ReferenceSamples/giab/data/AshkenazimTrio/HG002_NA24385_son/CORNELL_Oxford_Nanopore/giab.hg002.2D.fastq	b1b730d8d9a4abcb15e4235d295d2a0d	HG002
